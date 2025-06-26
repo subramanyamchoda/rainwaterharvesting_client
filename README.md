@@ -78,6 +78,16 @@ Generated electricity is added to a battery model over time.
 
 ---
 
+
+<p align="center">
+  <img src="https://subramanyamchoda.vercel.app/rainwater1.png" width="400"/>
+  <img src="https://subramanyamchoda.vercel.app/rainwater2.png" width="400"/>
+  <img src="https://subramanyamchoda.vercel.app/rainwater3.png" width="400"/>
+  <img src="https://subramanyamchoda.vercel.app/rainwater4.png" width="400"/>
+  <img src="https://subramanyamchoda.vercel.app/rainwater5.png" width="400"/>
+
+</p>
+---
 ## 🚀 Getting Started
 
 ### 1. Clone the Repositories
