@@ -78,7 +78,7 @@ Generated electricity is added to a battery model over time.
 
 ---
 
-
+## 🚀 Project Images
 <p align="center">
   <img src="https://subramanyamchoda.vercel.app/rainwater1.png" width="400"/>
   <img src="https://subramanyamchoda.vercel.app/rainwater2.png" width="400"/>
